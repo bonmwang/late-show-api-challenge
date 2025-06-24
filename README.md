@@ -32,7 +32,7 @@ python server/seed.py
 ```bash
 flask run
 
-- Authentication flow, if you think of implementing it:
+- Authentication Flow:
 1. Register a user:
 ```bash
 POST /auth/register
